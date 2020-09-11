@@ -1,40 +1,10 @@
-
-#EXTINF:-1 CINE PREMIUM FHD: Cinema 05 PPV
-http://interlatins.es:8691/Rul0LRrUdH/9AUTfw6cGj/2647.m3u
- 
-#EXTINF:-1 CINE PREMIUM FHD: Cinema 08 PPV
-http://interlatins.es:8691/Rul0LRrUdH/9AUTfw6cGj/2644.m3u
- 
-#EXTINF:-1 CINE PREMIUM FHD: Cinema 09 PPV
-http://interlatins.es:8691/Rul0LRrUdH/9AUTfw6cGj/2643.m3u
- 
-#EXTINF:-1 CINE PREMIUM FHD: Cinema 16 PPV
-http://interlatins.es:8691/Rul0LRrUdH/9AUTfw6cGj/2636.m3u
- 
-#EXTINF:-1 CINE PREMIUM FHD: Cinema 17 PPV
-http://interlatins.es:8691/Rul0LRrUdH/9AUTfw6cGj/2635.m3u
- 
-#EXTINF:-1 MUSIC: VH1 HD
-http://interlatins.es:8691/Rul0LRrUdH/9AUTfw6cGj/1445.m3u
- 
-#EXTINF:-1 MUSIC: MUCH MUSIC
-http://interlatins.es:8691/Rul0LRrUdH/9AUTfw6cGj/2551.m3u
- 
-#EXTINF:-1 MUSIC: MTV Hits
-http://interlatins.es:8691/Rul0LRrUdH/9AUTfw6cGj/1398.m3u
- 
-#EXTINF:-1 PREM PPV: Cinema 23 FHD
-http://interlatins.es:8691/Rul0LRrUdH/9AUTfw6cGj/32905.m3u
-
-
-
-#EXTINF:-1, MEGA HD (NEW)
+#EXTINF:-1, tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FArchivo%3AMegaHD.png&psig=AOvVaw3BXNMP5QxokVihS-mGsB7V&ust=1599929409160000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJC0ntzH4esCFQAAAAAdAAAAABAV" group-title="MEGA HD", MEGA HD
 http://66.northerniptv.ca:8000/shelley321/shelley321/418
  
 #EXTINF:-1, CINE LATINO (ES)
 http://66.northerniptv.ca:8000/shelley321/shelley321/30862
  
-#EXTINF:-1, CINEMAX HD ES - NEW
+#EXTINF:-1, tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinpng.com%2Fpicture%2FhRRoiJb_cinemaxhdla-cinemax-hd-channel-logo-hd-png-download%2F&psig=AOvVaw2BmbzHCdlEQEBqEROqowTv&ust=1599929356991000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPiG77nH4esCFQAAAAAdAAAAABAD" group-title="CINEMAX-HD", CINEMAX-HD
 http://66.northerniptv.ca:8000/shelley321/shelley321/419
  
 #EXTINF:-1, HBO EAST HD (ES)
@@ -58,10 +28,10 @@ http://66.northerniptv.ca:8000/shelley321/shelley321/444
 #EXTINF:-1, HISTORY (ES)
 http://66.northerniptv.ca:8000/shelley321/shelley321/431
  
-#EXTINF:-1, DISCOVERY HD ES
+#EXTINF:-1, tvg-logo="https://i.pinimg.com/originals/d1/60/9b/d1609bafd67a9eb5ac103a31da889098.png" group-title="DISCOVERY CHANNEL", DISCOVERY CHANNEL
 http://66.northerniptv.ca:8000/shelley321/shelley321/430
  
-#EXTINF:-1, CINE SONY (ES)
+#EXTINF:-1, tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsatcesc.com%2F2018%2F03%2F19%2Fla-cadena-cine-sony-desembarca-en-tivusat%2F&psig=AOvVaw1VaDUXpX0YE_FHcEfGclQY&ust=1599929146192000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNC1_dTG4esCFQAAAAAdAAAAABAD" group-title="CINE SONY", CINE SONY
 http://66.northerniptv.ca:8000/shelley321/shelley321/435
  
 #EXTINF:-1, MUSICA 1 (REGGAETON)
@@ -91,7 +61,7 @@ http://66.northerniptv.ca:8000/shelley321/shelley321/8505
 #EXTINF:-1, *UNIVISION DEPORTES
 http://66.northerniptv.ca:8000/shelley321/shelley321/423
  
-#EXTINF:-1, *FOX DEPORTES HD (ES)
+#EXTINF:-1, tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.foromedios.com%2Fgallery%2Fimage%2F4177-fox-sports-hd%2F&psig=AOvVaw3XUpbiMulo7JGudZoQkk0v&ust=1599929228290000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIC5z_3G4esCFQAAAAAdAAAAABAD" group-title="FOX SPORTS HD", FOX SPORTS HD
 http://66.northerniptv.ca:8000/shelley321/shelley321/436
  
 #EXTINF:-1, FOX DEPORTES (ES)
@@ -130,6 +100,11 @@ http://66.northerniptv.ca:8000/shelley321/shelley321/240
 #EXTINF:-1, TYC SPORTS INT (ARGENTINA)
 http://66.northerniptv.ca:8000/shelley321/shelley321/437
 
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/40/48/2c/40482cf6af582372c2a22072a2394a80.png" group-title="ARGENTINA",America HD
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/40/48/2c/40482cf6af582372c2a22072a2394a80.png" group-title="ARGENTINA",America SD
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
 
 #EXTINF:-1, ESPN 2 HD
 http://66.northerniptv.ca:8000/shelley321/shelley321/144
@@ -428,12 +403,11 @@ http://inliveserver.com:1935/8380/8380/playlist.m3u8?PlaylistM3UCL
 https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8?PlaylistM3UCL
 
 
+#EXTINF:-1,Canal 26 HD
+http://200.115.193.177/live/26hd-720/.m3u8
 
-#EXTINF:-1 ,#EXTINF:-1 - 13 MAX TELEFE achoAPPS.com #yomequedoencasa
-http://coninfo.net:1935/13maxhd/live_720p/master.m3u8
 
-#EXTINF:-1 ,#EXTINF:-1 - Historia achoAPPS.com #yomequedoencasa
-http://184.173.181.2:1935/8062/8062/playlist.m3u8
+
 
 #EXTINF:0 group-title="Noticias" tvg-logo="https://i.imgur.com/Jo7p7yZ.png", Argentinisima Satelital
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
