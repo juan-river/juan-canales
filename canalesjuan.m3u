@@ -1,10 +1,10 @@
-#EXTINF:-1, tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FArchivo%3AMegaHD.png&psig=AOvVaw3BXNMP5QxokVihS-mGsB7V&ust=1599929409160000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJC0ntzH4esCFQAAAAAdAAAAABAV" group-title="MEGA HD", MEGA HD
+#EXTINF:-1, tvg-id="128515" tvg-name="MEGA HD" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FArchivo%3AMegaHD.png&psig=AOvVaw3BXNMP5QxokVihS-mGsB7V&ust=1599929409160000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJC0ntzH4esCFQAAAAAdAAAAABAV", MEGA HD
 http://66.northerniptv.ca:8000/shelley321/shelley321/418
  
 #EXTINF:-1, CINE LATINO (ES)
 http://66.northerniptv.ca:8000/shelley321/shelley321/30862
  
-#EXTINF:-1, tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinpng.com%2Fpicture%2FhRRoiJb_cinemaxhdla-cinemax-hd-channel-logo-hd-png-download%2F&psig=AOvVaw2BmbzHCdlEQEBqEROqowTv&ust=1599929356991000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPiG77nH4esCFQAAAAAdAAAAABAD" group-title="CINEMAX-HD", CINEMAX-HD
+#EXTINF:-1, tvg-id="128514" tvg-name="CINEMAX-HD" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinpng.com%2Fpicture%2FhRRoiJb_cinemaxhdla-cinemax-hd-channel-logo-hd-png-download%2F&psig=AOvVaw2BmbzHCdlEQEBqEROqowTv&ust=1599929356991000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPiG77nH4esCFQAAAAAdAAAAABAD", CINEMAX-HD
 http://66.northerniptv.ca:8000/shelley321/shelley321/419
  
 #EXTINF:-1, HBO EAST HD (ES)
@@ -28,10 +28,10 @@ http://66.northerniptv.ca:8000/shelley321/shelley321/444
 #EXTINF:-1, HISTORY (ES)
 http://66.northerniptv.ca:8000/shelley321/shelley321/431
  
-#EXTINF:-1, tvg-logo="https://i.pinimg.com/originals/d1/60/9b/d1609bafd67a9eb5ac103a31da889098.png" group-title="DISCOVERY CHANNEL", DISCOVERY CHANNEL
+#EXTINF:-1, tvg-id="128513" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i.pinimg.com/originals/d1/60/9b/d1609bafd67a9eb5ac103a31da889098.png", DISCOVERY CHANNEL
 http://66.northerniptv.ca:8000/shelley321/shelley321/430
  
-#EXTINF:-1, tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsatcesc.com%2F2018%2F03%2F19%2Fla-cadena-cine-sony-desembarca-en-tivusat%2F&psig=AOvVaw1VaDUXpX0YE_FHcEfGclQY&ust=1599929146192000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNC1_dTG4esCFQAAAAAdAAAAABAD" group-title="CINE SONY", CINE SONY
+#EXTINF:-1, tvg-id="128512" tvg-name="CINE SONY" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsatcesc.com%2F2018%2F03%2F19%2Fla-cadena-cine-sony-desembarca-en-tivusat%2F&psig=AOvVaw1VaDUXpX0YE_FHcEfGclQY&ust=1599929146192000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNC1_dTG4esCFQAAAAAdAAAAABAD", CINE SONY
 http://66.northerniptv.ca:8000/shelley321/shelley321/435
  
 #EXTINF:-1, MUSICA 1 (REGGAETON)
@@ -61,7 +61,7 @@ http://66.northerniptv.ca:8000/shelley321/shelley321/8505
 #EXTINF:-1, *UNIVISION DEPORTES
 http://66.northerniptv.ca:8000/shelley321/shelley321/423
  
-#EXTINF:-1, tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.foromedios.com%2Fgallery%2Fimage%2F4177-fox-sports-hd%2F&psig=AOvVaw3XUpbiMulo7JGudZoQkk0v&ust=1599929228290000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIC5z_3G4esCFQAAAAAdAAAAABAD" group-title="FOX SPORTS HD", FOX SPORTS HD
+#EXTINF:-1, tvg-id="128511" tvg-name="FOX SPORTS HD" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.foromedios.com%2Fgallery%2Fimage%2F4177-fox-sports-hd%2F&psig=AOvVaw3XUpbiMulo7JGudZoQkk0v&ust=1599929228290000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIC5z_3G4esCFQAAAAAdAAAAABAD", FOX SPORTS HD
 http://66.northerniptv.ca:8000/shelley321/shelley321/436
  
 #EXTINF:-1, FOX DEPORTES (ES)
@@ -100,10 +100,10 @@ http://66.northerniptv.ca:8000/shelley321/shelley321/240
 #EXTINF:-1, TYC SPORTS INT (ARGENTINA)
 http://66.northerniptv.ca:8000/shelley321/shelley321/437
 
-#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/40/48/2c/40482cf6af582372c2a22072a2394a80.png" group-title="ARGENTINA",America HD
+#EXTINF:-1 tvg-id="128916" tvg-name="America HD" tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/40/48/2c/40482cf6af582372c2a22072a2394a80.png",America HD
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/40/48/2c/40482cf6af582372c2a22072a2394a80.png" group-title="ARGENTINA",America SD
+#EXTINF:-1 tvg-id="128510" tvg-name="America SD" tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/40/48/2c/40482cf6af582372c2a22072a2394a80.png",America SD
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
 
 #EXTINF:-1, ESPN 2 HD
