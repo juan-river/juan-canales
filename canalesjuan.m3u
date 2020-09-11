@@ -1,10 +1,10 @@
-#EXTINF:-1, tvg-id="128515" tvg-name="MEGA HD" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FArchivo%3AMegaHD.png&psig=AOvVaw3BXNMP5QxokVihS-mGsB7V&ust=1599929409160000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJC0ntzH4esCFQAAAAAdAAAAABAV", MEGA HD
+#EXTINF:-1, tvg-id="128515" tvg-name="MEGA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/MegaHD.png", MEGA HD
 http://66.northerniptv.ca:8000/shelley321/shelley321/418
  
 #EXTINF:-1, CINE LATINO (ES)
 http://66.northerniptv.ca:8000/shelley321/shelley321/30862
  
-#EXTINF:-1, tvg-id="128514" tvg-name="CINEMAX-HD" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinpng.com%2Fpicture%2FhRRoiJb_cinemaxhdla-cinemax-hd-channel-logo-hd-png-download%2F&psig=AOvVaw2BmbzHCdlEQEBqEROqowTv&ust=1599929356991000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPiG77nH4esCFQAAAAAdAAAAABAD", CINEMAX-HD
+#EXTINF:-1, tvg-id="128514" tvg-name="CINEMAX-HD" tvg-logo="https://www.pinpng.com/pngs/m/433-4337097_cinemaxhdla-cinemax-hd-channel-logo-hd-png-download.png", CINEMAX-HD
 http://66.northerniptv.ca:8000/shelley321/shelley321/419
  
 #EXTINF:-1, HBO EAST HD (ES)
@@ -28,10 +28,10 @@ http://66.northerniptv.ca:8000/shelley321/shelley321/444
 #EXTINF:-1, HISTORY (ES)
 http://66.northerniptv.ca:8000/shelley321/shelley321/431
  
-#EXTINF:-1, tvg-id="128513" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i.pinimg.com/originals/d1/60/9b/d1609bafd67a9eb5ac103a31da889098.png", DISCOVERY CHANNEL
+#EXTINF:-1, tvg-id="128513" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://s.yimg.com/uu/api/res/1.2/hFGeHe_Wy06aJWbgz6tPcw--~B/aD0yMjU7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://www.blogcdn.com/www.engadget.com/media/2008/04/discoveryhd_newlogo_042008.jpg", DISCOVERY CHANNEL
 http://66.northerniptv.ca:8000/shelley321/shelley321/430
  
-#EXTINF:-1, tvg-id="128512" tvg-name="CINE SONY" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsatcesc.com%2F2018%2F03%2F19%2Fla-cadena-cine-sony-desembarca-en-tivusat%2F&psig=AOvVaw1VaDUXpX0YE_FHcEfGclQY&ust=1599929146192000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNC1_dTG4esCFQAAAAAdAAAAABAD", CINE SONY
+#EXTINF:-1, tvg-id="128512" tvg-name="CINE SONY" tvg-logo="https://www.pngitem.com/pimgs/m/189-1891635_cine-sony-channel-logo-hd-png-download.png", CINE SONY
 http://66.northerniptv.ca:8000/shelley321/shelley321/435
  
 #EXTINF:-1, MUSICA 1 (REGGAETON)
@@ -61,7 +61,7 @@ http://66.northerniptv.ca:8000/shelley321/shelley321/8505
 #EXTINF:-1, *UNIVISION DEPORTES
 http://66.northerniptv.ca:8000/shelley321/shelley321/423
  
-#EXTINF:-1, tvg-id="128511" tvg-name="FOX SPORTS HD" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.foromedios.com%2Fgallery%2Fimage%2F4177-fox-sports-hd%2F&psig=AOvVaw3XUpbiMulo7JGudZoQkk0v&ust=1599929228290000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIC5z_3G4esCFQAAAAAdAAAAABAD", FOX SPORTS HD
+#EXTINF:-1, tvg-id="128511" tvg-name="FOX SPORTS HD" tvg-logo="https://img2.freepng.es/20180716/cp/kisspng-fox-sports-networks-sportsouth-television-fox-action-movies-logo-5b4d3b5b1d82e3.8392568615317881231209.jpg", FOX SPORTS HD
 http://66.northerniptv.ca:8000/shelley321/shelley321/436
  
 #EXTINF:-1, FOX DEPORTES (ES)
